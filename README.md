@@ -1,6 +1,6 @@
 # Hi, I'm Aliaksandr
 
-I build human-centered AI products focused on memory, continuity, multilingual interaction, model behavior, and conversational UX.
+I'm the creator of **With Alia**, a public Android app focused on human-centered AI, memory, continuity, multilingual interaction, model behavior, and conversational UX.
 
 My background is non-traditional: I come from high-pressure hospitality and resort operations, where trust, timing, emotional awareness, service quality, fast recovery, and practical problem-solving matter every day. I now bring that operating mindset into AI product development.
 
@@ -8,7 +8,7 @@ My background is non-traditional: I come from high-pressure hospitality and reso
 
 ### With Alia
 
-**With Alia** is a public Android app built around one continuing digital personality rather than a collection of interchangeable characters.
+**With Alia** is built around one continuing digital personality rather than a collection of interchangeable characters.
 
 > **One personality. Millions of unique relationships.**
 
@@ -28,7 +28,8 @@ Current product areas include:
 **With Alia 0.1.8 is live on Google Play.**
 
 [Get With Alia on Google Play](https://play.google.com/store/apps/details?id=com.withalia.app)  
-[Read the public project notes](https://github.com/alexalex-pixel/alia-human-centered-ai)
+[Instagram — @withalia.app](https://www.instagram.com/withalia.app/)  
+[Public project notes](https://github.com/alexalex-pixel/alia-human-centered-ai)
 
 ## What I care about in AI
 
@@ -57,4 +58,4 @@ I see AI products through the same lens: not only as software, but as systems th
 
 With Alia has moved from closed testing into public production. My current focus is learning from real users, improving the product where real failures appear, refining retention and monetization, and continuing to develop the product without losing the core idea behind Alia.
 
-The production application code remains private while the public repositories document the product direction, release milestones, human-centered AI thinking, and evaluation approach.
+The production application code remains private while the public repositories document product direction, release milestones, human-centered AI thinking, and evaluation approach.
