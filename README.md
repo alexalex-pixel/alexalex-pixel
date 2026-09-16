@@ -1,4 +1,4 @@
-# Hi, I'm Aliaksandr
+# Hi, I'm Alex
 
 I'm the creator of **With Alia**, a public Android app focused on human-centered AI, memory, continuity, multilingual interaction, model behavior, and conversational UX.
 
